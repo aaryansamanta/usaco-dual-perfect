@@ -25,9 +25,13 @@
 
 ### 🗂️ Repo Structure
 usaco-dual-perfect/
+
 ├── silver/
+
 │   ├── usaco_silver_1_mar2025.cpp
+
 │   ├── usaco_silver_2_mar2025.cpp
+
 │   └── usaco_silver_3_mar2025.cpp
 ├── bronze/
 │   ├── usaco_bronze_1_mar2025.cpp
