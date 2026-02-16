@@ -14,7 +14,7 @@
 
 
 
-###🏅Bronze Division (Perfect Score → Promoted to Silver)
+### 🏅 Bronze Division (Perfect Score → Promoted to Silver)
 <img alt="image" height="500" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/assets/Promo%20Screenshot%20%7C%20USACO%20Bronze%20Perfect%20Score%20%7C%20Promo%20to%20Silver.png" />
 
 **Silver Divison Problems Solved (full points):**
