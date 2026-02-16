@@ -3,7 +3,6 @@
 **1000/1000 in Silver • 1000/1000 in Gold**  
 **1 of only 8 U.S. high schoolers nationwide** (per official results)
 
-### USACO Banner
 <img width="900" height="130" alt="image" src="https://github.com/user-attachments/assets/4ad5d9df-6efa-4eed-bd2c-f6f511a43b65" />
 
 ### Achievement Highlights
@@ -14,10 +13,8 @@
 #### Silver Division (Perfect Score → Promoted to Gold)
 <img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Silver%20Perfect%20Score%20%26%20Promo%20to%20Gold.png" />
 
-
 #### Bronze Division (Perfect Score → Promoted to Silver)
 <img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Bronze%20Perfect%20Score%20%26%20Promo%20to%20Silver.png" />
-
 
 **Problems Solved (All AC, full points):**
 1. [Hoof Paper Scissors Minus One](https://usaco.org/index.php?page=viewproblem2&cpid=1515) — `bronze/hps_minus_one.cpp` + `.py`
