@@ -3,8 +3,7 @@
 **1000/1000 in Silver • 1000/1000 in Gold**  
 **1 of only 8 U.S. high schoolers nationwide** (per official results)
 
-![USACO Banner](https://raw.githubusercontent.com/aaryansamanta/usaco-dual-perfect/main/assets/usaco-banner.png)  
-
+### USACO Banner
 <img width="900" height="130" alt="image" src="https://github.com/user-attachments/assets/4ad5d9df-6efa-4eed-bd2c-f6f511a43b65" />
 
 ### Achievement Highlights
@@ -13,14 +12,11 @@
 - Then **Gold Division Perfect Score** → Dual Perfect
 
 #### Silver Division (Perfect Score → Promoted to Gold)
-![Silver Promotion Screenshot](USACO Silver Perfect Score & Promo to Gold.png)
+<img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Silver%20Perfect%20Score%20%26%20Promo%20to%20Gold.png" />
+
 
 #### Bronze Division (Perfect Score → Promoted to Silver)
-![Bronze Promotion Screenshot](bronze-promo.png)
-
-<img width="900" height="130" alt="image" src="[https://github.com/user-attachments/assets/4ad5d9df-6efa-4eed-bd2c-f6f511a43b65](https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Silver%20Perfect%20Score%20%26%20Promo%20to%20Gold.png)" />
-
-
+<img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Bronze%20Perfect%20Score%20%26%20Promo%20to%20Silver.png" />
 
 
 **Problems Solved (All AC, full points):**
