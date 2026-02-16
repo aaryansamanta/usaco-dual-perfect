@@ -34,7 +34,7 @@
 
 ├── bronze/
 
-│   ├── usaco_bronze_1_mar2025.cpp
+                │   ├── usaco_bronze_1_mar2025.cpp
 
 │   ├── usaco_bronze_2_mar2025.cpp
 
