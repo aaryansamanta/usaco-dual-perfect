@@ -1,12 +1,11 @@
 # 🏆 USACO 2025 US Open — **Dual Perfect** (Gold + Silver)
 
-**1000/1000 in Silver • 1000/1000 in Gold**  
+**1000/1000 to Silver • 1000/1000 to Gold**  
 **1 of only 8 U.S. high schoolers nationwide** (per official results)
 
 ### Achievement Highlights
 - **Bronze → Silver Promotion** (Perfect 1000/1000)  
 - **Silver → Gold Promotion** (Perfect 1000/1000)  
-- Then **Gold Division Perfect Score** → Dual Perfect
 
 ### Silver Division (Perfect Score → Promoted to Gold)
 <img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Silver%20Perfect%20Score%20%26%20Promo%20to%20Gold.png" />
@@ -14,22 +13,25 @@
 ### Bronze Division (Perfect Score → Promoted to Silver)
 <img alt="image" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/USACO%20Bronze%20Perfect%20Score%20%26%20Promo%20to%20Silver.png" />
 
-**Problems Solved (All AC, full points):**
-1. [Hoof Paper Scissors Minus One](https://usaco.org/index.php?page=viewproblem2&cpid=1515) — `bronze/hps_minus_one.cpp` + `.py`
-2. [More Cow Photos](https://usaco.org/index.php?page=viewproblem2&cpid=1516) — `bronze/more_cow_photos.cpp` + `.py`
-3. [It's Mooin' Time III](https://usaco.org/index.php?page=viewproblem2&cpid=1517) — `bronze/moo_time_iii.cpp` + `.py`
+**Silver Problems Solved (full points):**
+1. [Sequence Construction](https://usaco.org/index.php?page=viewproblem2&cpid=1518) — `silver/usaco_silver_1_mar2025.cpp` 
+2. [Compatible Pairs](https://usaco.org/index.php?page=viewproblem2&cpid=1519) — `silver/usaco_silver_2_mar2025.cpp` 
+3. [Ski Slope](https://usaco.org/index.php?page=viewproblem2&cpid=1520) — `silver/usaco_silver_3_mar2025.cpp`
 
-
-
-**Problems Solved (All AC, full points):**
-1. [Sequence Construction](https://usaco.org/index.php?page=viewproblem2&cpid=1518) — `silver/sequence_construction.cpp` + `.py`
-2. [Compatible Pairs](https://usaco.org/index.php?page=viewproblem2&cpid=1519) — `silver/compatible_pairs.cpp` + `.py`
-3. [Ski Slope](https://usaco.org/index.php?page=viewproblem2&cpid=1520) — `silver/ski_slope.cpp` + `.py`
-
-#### Gold Division (Perfect Score — Dual Perfect Achieved)
-**Problems Solved (All AC, full points):**
-1. [Moo Decomposition](https://usaco.org/index.php?page=viewproblem2&cpid=1521) — `gold/moo_decomposition.cpp` + `.py`
-2. [Election Queries](https://usaco.org/index.php?page=viewproblem2&cpid=1522) — `gold/election_queries.cpp` + `.py`
-3. [OohMoo Milk](https://usaco.org/index.php?page=viewproblem2&cpid=1523) — `gold/oohmoo_milk.cpp` + `.py`
+**Bronze Problems Solved (full points):**
+1. [Hoof Paper Scissors Minus One](https://usaco.org/index.php?page=viewproblem2&cpid=1515) — `bronze/usaco_bronze_1_mar2025.cpp`
+2. [More Cow Photos](https://usaco.org/index.php?page=viewproblem2&cpid=1516) — `bronze/usaco_bronze_2_mar2025.cpp`
+3. [It's Mooin' Time III](https://usaco.org/index.php?page=viewproblem2&cpid=1517) — `bronze/usaco_bronze_3_mar2025.cpp`
 
 ### 🗂️ Repo Structure
+usaco-dual-perfect/
+├── silver/
+│   ├── usaco_silver_1_mar2025.cpp
+│   ├── usaco_silver_2_mar2025.cpp
+│   └── usaco_silver_3_mar2025.cpp
+├── bronze/
+│   ├── usaco_bronze_1_mar2025.cpp
+│   ├── usaco_bronze_2_mar2025.cpp
+│   └── usaco_bronze_3_mar2025.cpp
+├── assets/                 
+├── README.md
