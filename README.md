@@ -3,18 +3,18 @@
 **1000/1000 to Silver • 1000/1000 to Gold**  
 **1 of only 8 U.S. high schoolers nationwide** (per official results)
 
-### Achievement Highlights
+### 🏅 Achievement Highlights
 - **Bronze → Silver Promotion** (Perfect 1000/1000)  
 - **Silver → Gold Promotion** (Perfect 1000/1000)  
 
-### Silver Division (Perfect Score → Promoted to Gold)
+### 🏅 Silver Division (Perfect Score → Promoted to Gold)
 <img alt="image" height="500" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/assets/Promo%20Screenshot%20%7C%20USACO%20Silver%20Perfect%20Score%20%7C%20Promo%20to%20Gold.png" />
 
 
 
 
 
-### Bronze Division (Perfect Score → Promoted to Silver)
+###🏅Bronze Division (Perfect Score → Promoted to Silver)
 <img alt="image" height="500" src="https://github.com/aaryansamanta/usaco-dual-perfect/blob/main/assets/Promo%20Screenshot%20%7C%20USACO%20Bronze%20Perfect%20Score%20%7C%20Promo%20to%20Silver.png" />
 
 **Silver Divison Problems Solved (full points):**
