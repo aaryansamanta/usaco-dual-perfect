@@ -3,8 +3,6 @@
 **1000/1000 in Silver • 1000/1000 in Gold**  
 **1 of only 8 U.S. high schoolers nationwide** (per official results)
 
-<img width="900" height="130" alt="image" src="https://github.com/user-attachments/assets/4ad5d9df-6efa-4eed-bd2c-f6f511a43b65" />
-
 ### Achievement Highlights
 - **Bronze → Silver Promotion** (Perfect 1000/1000)  
 - **Silver → Gold Promotion** (Perfect 1000/1000)  
